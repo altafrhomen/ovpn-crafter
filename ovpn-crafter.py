@@ -5,7 +5,7 @@ Author : Althafrhomen
 """
 import os , sys
 
-class Crafter:
+class crafter:
 
 	def __init__(self,name)
 		self.name = name
